@@ -1,2 +1,5 @@
-# Java-Projects
-A few Java Programs from my CS112 course at Rutgers University
+# Polynomial Calculator
+
+A project from my CS112 course at Rutgers University
+
+This program can multiply, add, and evaluate and polynomial inserted by the user. 
